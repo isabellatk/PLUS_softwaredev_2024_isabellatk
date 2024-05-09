@@ -43,4 +43,7 @@ The process was successful, so I followed the same process with the second file.
 
 ## A3 geo-python notebook - Documentation
 ### A3: Do something with GDAL, rasterio, folium or another geo-specific python library in a notebook
-First
+
+Since our group is working with climate data, we decided that all of us will look into meteostat and possibly other libraries like geopandas and folium to familiarize ourselves with these. For me, having no previous experience in working with Python, environments or libraries, my goal was to understand the process of installing a package/library within an environment, testing and finding out what is inside the library and what I can do with it, and thirdly testing out first simple functions as well as doing small changes and manipulations to change the output.
+
+For starting with meteostat, i began by installing it using "pip install meteostat".

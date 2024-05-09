@@ -39,3 +39,8 @@ Lastly I used *conda env list* to check, if the new environment was there:
 
 The process was successful, so I followed the same process with the second file. After that, the task was completed: 
 ![image](https://github.com/isabellatk/PLUS_softwaredev_2024_isabellatk/assets/162346111/47070cd5-84cd-42b7-a0d4-af61b3a3bd5f)
+
+
+## A3 geo-python notebook - Documentation
+### A3: Do something with GDAL, rasterio, folium or another geo-specific python library in a notebook
+First
